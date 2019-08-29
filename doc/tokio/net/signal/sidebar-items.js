@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["ctrl_c","Creates a new stream which receives \"ctrl-c\" notifications sent to the process."]]});

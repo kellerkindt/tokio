@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["mock","Run the provided closure with a `MockClock` that starts at the current time."],["mock_at","Run the provided closure with a `MockClock` that starts at the provided `Instant`."]],"struct":[["Handle","A handle to the `MockClock`."],["MockClock","Mock clock for use with `tokio-timer` futures."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ReuniteError","Error indicating two halves were not from the same stream, and thus could not be `reunite`d."],["TcpStreamReadHalf","Read half of a `TcpStream`."],["TcpStreamReadHalfMut","Read half of a `TcpStream`."],["TcpStreamWriteHalf","Write half of a `TcpStream`."],["TcpStreamWriteHalfMut","Write half of a `TcpStream`."]]});

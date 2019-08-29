@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["mock","Run the provided closure in a `MockTask` context."],["spawn","TOOD: dox"]],"struct":[["MockTask","Mock task"],["Spawn","Future spawned on a mock task"]]});
